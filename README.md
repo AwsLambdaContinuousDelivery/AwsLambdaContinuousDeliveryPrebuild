@@ -1,8 +1,6 @@
 # AwsLambdaContinuousDeliveryPrebuild
 Pre-build stacks ready to use
 
-[![Launch Stack](https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg)](https://console.aws.amazon.com/cloudformation/home#/stacks/create/review?stackName=Example&templateURL=https://s3.amazonaws.com/my-great-stack.json)
-
 ## Source -> Build -> Alpha -> PROD
 [![Launch Stack](https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg)](https://console.aws.amazon.com/cloudformation/home#/stacks/create/review?stackName=Example&templateURL=https://s3.eu-central-1.amazonaws.com/awslambdacontinuousdeliverytemplates/pyAlphaBeta.json)
 
